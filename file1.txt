@@ -1,2 +1,4 @@
 this aslo a new file for seconf experiment
 git checkout
+git commit 
+git stash
